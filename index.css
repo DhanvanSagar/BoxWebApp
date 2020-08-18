@@ -129,7 +129,6 @@ nav
     justify-content: space-between;
     align-items: center;
     transform: translateY(-30px);
-    max-width: 90%;
 }
 .Mobile-ham
 {
@@ -193,7 +192,7 @@ nav
        justify-content: space-between;
        width: 200px;
        position: relative;
-       transform: translate(300px,-140px);
+       transform: translate(280px,-140px);
    }
    .right img 
    {
